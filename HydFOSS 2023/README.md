@@ -22,3 +22,18 @@ In this talk Ashwin will talk how to break The Piñata effect when dealing with 
 - For a newbie: Identifying the Piñata effect in your initial/transitional career phase.
 
 The audience will walk away with retrospective ideas to identify the Piñata effect in the different phases of their careers when involved with open source.
+
+### Resources
+White Papers
+- https://ieeexplore.ieee.org/document/6614728
+- http://www.igor.pro.br/publica/papers/ICSE_2018b.pdf
+- 
+Maintainer Month
+- https://gist.github.com/simonw/fb901fbf932769a7d99e56fe8fe2539b
+- https://maintainermonth.github.com/
+- https://github.com/readme/guides/onward-maintainer-framework
+- 
+State of Open Source
+- https://octoverse.github.com/2022/state-of-open-source
+
+
